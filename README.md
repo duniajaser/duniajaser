@@ -6,7 +6,7 @@
 - 📫 Email: duniajaser7@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/dunia-jaser-314377296/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 
 <!---
